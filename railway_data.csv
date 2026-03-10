@@ -1,0 +1,6 @@
+Train_ID,Route,Date_Time,Passenger_Count,Seat_Occupancy,Number_of_Coaches,Platform_Number,Delay_Minutes,Weekend_Holiday
+T101,Hyderabad-Vijayawada,2024-05-01 08:00,420,85,12,2,5,0
+T102,Hyderabad-Chennai,2024-05-01 10:00,350,75,10,3,0,0
+T103,Vijayawada-Chennai,2024-05-02 18:00,520,95,14,1,10,1
+T104,Hyderabad-Bangalore,2024-05-03 07:30,480,88,13,4,2,0
+T105,Chennai-Bangalore,2024-05-03 19:00,600,97,15,2,8,1
